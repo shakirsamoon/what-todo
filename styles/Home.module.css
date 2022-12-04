@@ -1,0 +1,13 @@
+.content {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-items: center;
+  padding: 20px;
+}
+
+@media (max-width: 600px) {
+  .content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
