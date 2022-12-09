@@ -1,21 +1,25 @@
 # What Todo! - Next.js Todo Application
----
+
 *NOTE: This is an example project developed by [@shakirsamoon](https://github.com/shakirsamoon). Feel free to explore, clone or fork the repo as per your liking. In exchange, I would like a star for the repository. Thank you in Advance.*
 
-> Developed on: Dec 04, 2022
+- Developed on: Dec 04, 2022
 
-> Technologies/Packages used:
-> - [Next.js](https://nextjs.org/)
-> - [MongoDB](https://www.mongodb.com/atlas/database)
-> - [Axios](https://www.npmjs.com/package/axios)
-> - [Mongoose](https://www.npmjs.com/package/mongoose)
-
+- Technologies/Packages used:
+  - [Next.js](https://nextjs.org/)
+  - [MongoDB](https://www.mongodb.com/atlas/database)
+  - [Axios](https://www.npmjs.com/package/axios)
+  - [Mongoose](https://www.npmjs.com/package/mongoose)
 
 <br/>
 
+## Live Preview
+
+- [https://what-todos.vercel.app](https://what-todos.vercel.app)
+
+<br/>
 
 ## Getting Started
----
+
 
 ### 1) Setup MongoDB.
 
